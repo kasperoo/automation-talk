@@ -1,5 +1,6 @@
 # automation-talk
-Files for our automation presentation. You will need to install Node.js first.
+Files for our "Frontend workflow" presentation. 
+With [@banford](http:////twitter.com/banford) and [@kasperoo](https://twitter.com/kasperoo)
 
 ##Installation
 
